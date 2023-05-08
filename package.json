@@ -1,7 +1,7 @@
 {
   "name": "tbot",
   "version": "1.0.0",
-  "description": "6249407082:AAHbgiAhwADcnfPLKA26fDZQsASqyoSGeWw",
+  "description": "5900264967:AAEBDr5BtK36rUl8Uwg0aM-5ZWBTe4Sb9jk",
   "main": "bot.js",
   "scripts": {
     "start": "nodemon bot.js",

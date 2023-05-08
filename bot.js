@@ -2,7 +2,7 @@ const { Telegraf } = require("telegraf");
 const axios = require("axios");
 const { capitalize } = require("light-string-utils");
 
-const bot = new Telegraf("6249407082:AAHbgiAhwADcnfPLKA26fDZQsASqyoSGeWw");
+const bot = new Telegraf("5900264967:AAEBDr5BtK36rUl8Uwg0aM-5ZWBTe4Sb9jk");
 
 const message1 = `Let us serve you better. How do you want to see our products?`;
 const url = "https://fakestoreapi.com";
