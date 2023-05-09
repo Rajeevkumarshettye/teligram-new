@@ -2,17 +2,6 @@ const { Telegraf } = require("telegraf");
 const axios = require("axios");
 const { capitalize } = require("light-string-utils");
 
-const express = require('express');
-const app = express();
-
-app.get('/', (req, res) => {
-  res.send('Hello World!');
-});
-
-const port = 3000;
-app.listen(port, () => {
-  console.log(`Server running at http://localhost:${port}`);
-});
 
 const bot = new Telegraf("5900264967:AAEBDr5BtK36rUl8Uwg0aM-5ZWBTe4Sb9jk");
 
